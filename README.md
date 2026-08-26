@@ -12,7 +12,9 @@ This project implements a Smart Car Parking System using Arduino UNO and ultraso
 * Breadboard
 * Jumper Wires
 * USB Cable
-* LCD Display (if used)
+* LCD Display
+* Servo motor
+* ir sensor 
 
 ## Working Principle
 
